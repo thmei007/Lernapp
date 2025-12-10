@@ -1,0 +1,7 @@
+-- Lern App
+
+Features:
+- Karteikarten erstellen, bearbeiten
+- erstellte Karteikarten lernen
+- Zusammenfassungen schreiben
+- Prüfungen eintragen
